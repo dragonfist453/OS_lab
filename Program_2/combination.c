@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
 	int n = atoi(argv[1]);
 	int r = atoi(argv[2]);
 	if(n<r)
-		printf("SKREEEEEEEEE\n");
+		printf("Splitting %d into %d places is not possible so bye!\n\n",n,r);
 	else
 	{
 		int ncr =  factorial(n)/(factorial(r)*factorial(n-r));
