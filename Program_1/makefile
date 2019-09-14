@@ -11,3 +11,7 @@ remove: remove.c
 
 clean:
 	rm copy list move remove
+
+open: 
+	nano copy.c move.c list.c remove.c
+
