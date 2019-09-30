@@ -69,19 +69,3 @@ int main(int argc,char *argv[])
 		pthread_join(cons[i],NULL);
 	return 0;
 }			
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	

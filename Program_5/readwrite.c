@@ -66,22 +66,3 @@ int main()
 	pthread_join(r2,NULL);
 	return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
